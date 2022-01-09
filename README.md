@@ -37,6 +37,6 @@ Once the program understands the speech, it coverts it into text and prints it o
 APPLICATIONS:- 
 1) Speech to text program could be used for typing purpose, as with help of it we can type just by dictating the words.
 2) Could be used to communicate with people coming from different backgrounds.
-3) It is helpfull for disabled people.
+3) It is helpful for disabled people.
 
 
